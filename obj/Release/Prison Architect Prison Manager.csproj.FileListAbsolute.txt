@@ -1,0 +1,11 @@
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\bin\Release\Prison Architect Prison Manager.exe.config
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\bin\Release\Prison Architect Prison Manager.exe
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\bin\Release\Prison Architect Prison Manager.pdb
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\bin\Release\Ionic.Zip.dll
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\obj\Release\Prison Architect Prison Manager.csprojResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\obj\Release\Prison_Architect_Prison_Manager.AboutBox1.resources
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\obj\Release\Prison_Architect_Prison_Manager.Form1.resources
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\obj\Release\Prison_Architect_Prison_Manager.Properties.Resources.resources
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\obj\Release\Prison Architect Prison Manager.csproj.GenerateResource.Cache
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\obj\Release\Prison Architect Prison Manager.exe
+C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manager\Prison Architect Prison Manager\obj\Release\Prison Architect Prison Manager.pdb

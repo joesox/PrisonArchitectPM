@@ -1,0 +1,1098 @@
+2/7/2015 12:48:04 PM, LoadSavedWorlds: STARTING...
+2/7/2015 12:48:04 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 12:48:05 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:48:05 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 12:48:05 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 12:48:05 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 12:48:06 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 12:48:06 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 12:48:06 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 12:48:06 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 12:48:06 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 12:48:06 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:48:06 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:48:06 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:48:44 PM, LoadSavedWorlds: STARTING...
+2/7/2015 12:48:45 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 12:48:46 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:48:46 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:48:46 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:48:46 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:52:49 PM, LoadSavedWorlds: STARTING...
+2/7/2015 12:52:49 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 12:52:50 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:52:50 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:52:50 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:52:51 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:53:25 PM, LoadSavedWorlds: STARTING...
+2/7/2015 12:53:26 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 12:53:27 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:53:27 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:53:27 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:53:27 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:54:35 PM, LoadSavedWorlds: STARTING...
+2/7/2015 12:54:36 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 12:54:36 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:54:37 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:54:37 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:54:37 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:56:33 PM, LoadSavedWorlds: STARTING...
+2/7/2015 12:56:34 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 12:56:34 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:57:45 PM, LoadSavedWorlds: STARTING...
+2/7/2015 12:57:45 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 12:57:46 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:57:46 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 12:57:46 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 12:57:47 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:00:15 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:00:16 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:00:16 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:00:17 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:00:17 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:00:17 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:01:52 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:01:53 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:01:56 PM, btnCleanup_Click clicked...
+2/7/2015 1:01:56 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:01:57 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:01:58 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:02:00 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:02:00 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:02:25 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:02:25 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:02:26 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:02:26 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:02:26 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:02:26 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:03:10 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:03:10 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:03:11 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:03:11 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:03:11 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:03:12 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:03:42 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:03:43 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:03:43 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:03:44 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:03:44 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:03:44 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:04:12 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:04:13 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:04:13 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:04:14 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:04:14 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:04:14 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:04:32 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:05:20 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:05:21 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:05:22 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:05:22 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:05:22 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:05:22 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:05:38 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:05:38 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:05:40 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:05:40 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:05:40 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:05:40 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:05:49 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:07:46 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:07:47 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:07:47 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:07:47 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:07:48 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:07:48 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:07:48 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:08:18 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:08:18 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen++.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen--.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.08M.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.09M.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.12M.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.13M.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.14M.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.15M.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.16M.png
+2/7/2015 1:08:19 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen-GROUP\HollywoodPen1.17M.png
+2/7/2015 1:08:19 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:08:30 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:08:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:08:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:08:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:08:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:08:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:08:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:08:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:08:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:08:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:08:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:08:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:08:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:08:33 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:08:37 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:08:38 PM, The process cannot access the file 'autosave_01312015102918.png' because it is being used by another process.
+2/7/2015 1:09:34 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:09:34 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:09:35 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:11:19 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:11:20 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:11:21 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:11:23 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:11:40 PM, btnCleanup_Click clicked...
+2/7/2015 1:11:40 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:12:00 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:12:00 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:12:01 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:12:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:12:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:12:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:12:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:12:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:12:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:12:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:12:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:12:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:12:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:12:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:12:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:15:11 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:15:11 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:15:12 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:15:12 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:15:12 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:15:12 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:15:12 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:15:13 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:15:13 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:15:13 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:15:13 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:15:13 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:15:13 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:15:13 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:15:25 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:15:32 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:15:33 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:15:34 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:15:35 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:15:35 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:15:35 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:15:35 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:15:38 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:15:48 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:15:49 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:15:50 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:15:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:15:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:15:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:15:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:15:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:15:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:15:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:15:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:15:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:15:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:15:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:15:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:16:16 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:16:17 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:16:17 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:16:19 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:16:35 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:16:36 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:16:36 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:16:38 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:16:49 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:17:29 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:17:30 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:17:30 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:17:30 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:17:30 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:17:31 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:17:31 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:17:31 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:17:31 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:17:31 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:17:31 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:17:31 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:17:31 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:17:31 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:17:47 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:17:48 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:17:50 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:25:44 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:25:44 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:25:46 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:25:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:25:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:25:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:25:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:25:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:25:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:25:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:25:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:25:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:25:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:25:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:25:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:25:48 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:25:49 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:25:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:25:49 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:25:49 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:25:50 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:25:56 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:25:56 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:25:56 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:25:56 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:25:58 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:26:00 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:26:03 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:26:03 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:26:11 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:26:12 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:26:15 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:26:16 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:26:17 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:26:19 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:26:20 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:26:20 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:26:20 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:26:21 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:26:32 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:26:32 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PittsburgPen-GROUP\PittsburgPen++.png
+2/7/2015 1:26:32 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PittsburgPen-GROUP\PittsburgPen.png
+2/7/2015 1:26:32 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PittsburgPen-GROUP\PittsburgPen700k+200cells.png
+2/7/2015 1:26:32 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PittsburgPen-GROUP\PittsburgPen700k.png
+2/7/2015 1:26:32 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PittsburgPen-GROUP\PittsburgPen720k.png
+2/7/2015 1:26:32 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:26:48 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 2:28:10 PM, LoadSavedWorlds: STARTING...
+2/7/2015 2:28:11 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 2:29:01 PM, LoadSavedWorlds: STARTING...
+2/7/2015 2:29:01 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 2:29:12 PM, LoadSavedWorlds: STARTING...
+2/7/2015 2:29:12 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 2:29:14 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 2:29:14 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 2:29:14 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 2:29:15 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 2:29:15 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 2:29:15 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 2:29:15 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 2:29:15 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 2:29:15 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 2:29:16 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 2:29:16 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 2:29:16 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 2:29:16 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+2/7/2015 2:29:16 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 2:29:17 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 2:29:25 PM, LoadSavedWorlds: STARTING...
+2/7/2015 2:29:26 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 2:48:11 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 3:02:29 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:02:30 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:03:54 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:03:55 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:04:14 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:04:15 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:04:52 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:04:53 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:06:04 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:06:05 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:07:51 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:07:51 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:10:37 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:10:37 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:13:31 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:13:32 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:15:56 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:15:57 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:16:17 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:16:18 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:17:44 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:17:44 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:18:51 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:18:51 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 3:23:09 PM, LoadSavedWorlds: STARTING...
+2/7/2015 3:23:09 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:18:10 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:18:11 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:18:22 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:18:23 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:18:51 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:18:52 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:20:18 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:20:18 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:20:41 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:20:41 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:22:33 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:22:33 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:23:35 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:23:36 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:23:51 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 6:23:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 6:23:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 6:23:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 6:23:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 6:23:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 6:23:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 6:23:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 6:23:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 6:23:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 6:23:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 6:23:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 6:23:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+2/7/2015 6:23:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 6:23:54 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 6:23:58 PM, LoadSavedWorlds: STARTING...
+2/7/2015 6:23:58 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 6:24:03 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 6:24:03 PM, The process cannot access the file 'NewHollywoodPen_02072015135405.png' because it is being used by another process.
+2/8/2015 7:31:56 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:31:57 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:32:16 PM, LoadSelectedGroupPrisons: STARTING...
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/8/2015 7:32:16 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/8/2015 7:32:17 PM, LoadSelectedGroupPrisons: COMPLETED
+2/8/2015 7:32:17 PM, LoadSelectedGroupPrisons: STARTING...
+2/8/2015 7:32:17 PM, LoadSelectedGroupPrisons: COMPLETED
+2/8/2015 7:32:18 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:32:19 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:32:25 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:32:25 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:32:35 PM, LoadSelectedGroupPrisons: STARTING...
+2/8/2015 7:32:35 PM, LoadSelectedGroupPrisons: COMPLETED
+2/8/2015 7:32:35 PM, LoadSelectedGroupPrisons: STARTING...
+2/8/2015 7:32:35 PM, LoadSelectedGroupPrisons: COMPLETED
+2/8/2015 7:32:36 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:32:36 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:32:45 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/8/2015 7:32:45 PM, The process cannot access the file 'EdmondsPen.png' because it is being used by another process.
+2/8/2015 7:32:50 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:32:50 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:32:52 PM, LoadBackedUpPrisons: STARTING...
+2/8/2015 7:32:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/8/2015 7:32:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/8/2015 7:32:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/8/2015 7:32:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/8/2015 7:32:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/8/2015 7:32:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/8/2015 7:32:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/8/2015 7:32:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/8/2015 7:32:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/8/2015 7:32:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+2/8/2015 7:32:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+2/8/2015 7:32:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+2/8/2015 7:32:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+2/8/2015 7:32:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/8/2015 7:32:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/8/2015 7:32:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+2/8/2015 7:32:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+2/8/2015 7:32:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/8/2015 7:32:56 PM, LoadBackedUpPrisons: COMPLETED
+2/8/2015 7:32:57 PM, LoadSelectedGroupPrisons: STARTING...
+2/8/2015 7:32:57 PM, LoadSelectedGroupPrisons: COMPLETED
+2/8/2015 7:32:57 PM, LoadSelectedGroupPrisons: STARTING...
+2/8/2015 7:32:58 PM, LoadSelectedGroupPrisons: COMPLETED
+2/8/2015 7:32:59 PM, LoadBackedUpPrisons: STARTING...
+2/8/2015 7:33:02 PM, LoadBackedUpPrisons: COMPLETED
+2/8/2015 7:33:03 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:33:03 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:33:06 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/8/2015 7:33:06 PM, The process cannot access the file 'MarsPen1.14M_02082015160605.png' because it is being used by another process.
+2/8/2015 7:33:56 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:33:56 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:34:11 PM, LoadBackedUpPrisons: STARTING...
+2/8/2015 7:34:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/8/2015 7:34:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/8/2015 7:34:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/8/2015 7:34:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/8/2015 7:34:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/8/2015 7:34:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/8/2015 7:34:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/8/2015 7:34:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/8/2015 7:34:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/8/2015 7:34:13 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+2/8/2015 7:34:14 PM, LoadBackedUpPrisons: COMPLETED
+2/8/2015 7:34:17 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/8/2015 7:34:17 PM, The process cannot access the file 'NewHollywoodPen_02062015220137.png' because it is being used by another process.
+2/8/2015 7:36:27 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:36:27 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:36:28 PM, LoadBackedUpPrisons: STARTING...
+2/8/2015 7:36:28 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/8/2015 7:36:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/8/2015 7:36:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/8/2015 7:36:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/8/2015 7:36:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/8/2015 7:36:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/8/2015 7:36:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/8/2015 7:36:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/8/2015 7:36:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/8/2015 7:36:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+2/8/2015 7:36:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+2/8/2015 7:36:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+2/8/2015 7:36:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+2/8/2015 7:36:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/8/2015 7:36:32 PM, LoadBackedUpPrisons: COMPLETED
+2/8/2015 7:36:40 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/8/2015 7:37:05 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:37:05 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:37:06 PM, LoadBackedUpPrisons: STARTING...
+2/8/2015 7:37:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/8/2015 7:37:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/8/2015 7:37:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/8/2015 7:37:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/8/2015 7:37:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/8/2015 7:37:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/8/2015 7:37:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/8/2015 7:37:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/8/2015 7:37:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/8/2015 7:37:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+2/8/2015 7:37:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+2/8/2015 7:37:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+2/8/2015 7:37:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+2/8/2015 7:37:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/8/2015 7:37:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/8/2015 7:37:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+2/8/2015 7:37:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+2/8/2015 7:37:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/8/2015 7:37:09 PM, LoadBackedUpPrisons: COMPLETED
+2/8/2015 7:57:03 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:57:03 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:58:36 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:58:36 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:58:38 PM, LoadBackedUpPrisons: STARTING...
+2/8/2015 7:58:41 PM, LoadBackedUpPrisons: COMPLETED
+2/8/2015 7:59:04 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\aef5e838-a284-4b55-ae44-81976a7d5a60\autosave.png
+2/8/2015 7:59:10 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\a722bb90-1c80-45cc-bf73-835dde364b09\MarsPen.png
+2/8/2015 7:59:11 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\29637cd0-8308-4cd6-a5f0-8c16b39ab7a3\MarsPen1.14M.png
+2/8/2015 7:59:14 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\52841b87-fe80-4934-9627-9a0ba1f05e3d\NewHollywoodPen.png
+2/8/2015 7:59:17 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/8/2015 7:59:17 PM, The process cannot access the file 'MarsPen_02082015160609.png' because it is being used by another process.
+2/13/2015 6:04:36 PM, LoadSavedWorlds: STARTING...
+2/13/2015 6:04:37 PM, LoadSavedWorlds: COMPLETED
+2/13/2015 6:05:17 PM, LoadBackedUpPrisons: STARTING...
+2/13/2015 6:05:17 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/13/2015 6:05:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/13/2015 6:05:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/13/2015 6:05:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/13/2015 6:05:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/13/2015 6:05:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/13/2015 6:05:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/13/2015 6:05:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/13/2015 6:05:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/13/2015 6:05:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+2/13/2015 6:05:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+2/13/2015 6:05:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+2/13/2015 6:05:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+2/13/2015 6:05:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/13/2015 6:05:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/13/2015 6:05:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+2/13/2015 6:05:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+2/13/2015 6:05:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+2/13/2015 6:05:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+2/13/2015 6:05:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/13/2015 6:05:21 PM, LoadBackedUpPrisons: COMPLETED
+2/13/2015 6:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\70a73705-e172-4958-a2bb-f7dd469bc0aa\autosave.png
+2/13/2015 6:05:22 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\12a8e434-3f3f-430a-b4f6-28680f3ad547\MarsPen.png
+2/13/2015 6:05:25 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\83b05e75-903c-43c0-be93-5befa01c9a59\MarsPen.png
+2/13/2015 6:05:26 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\6a47ff82-ef7b-4e11-8423-fa0afaa06c7e\MarsPen.png
+2/13/2015 6:05:27 PM, LoadSelectedGroupPrisons: STARTING...
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/13/2015 6:05:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/13/2015 6:05:28 PM, LoadSelectedGroupPrisons: COMPLETED
+2/13/2015 6:05:28 PM, LoadSelectedGroupPrisons: STARTING...
+2/13/2015 6:05:28 PM, LoadSelectedGroupPrisons: COMPLETED
+2/13/2015 6:05:34 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/13/2015 6:05:34 PM, The process cannot access the file 'EdmondsPen.png' because it is being used by another process.
+2/13/2015 6:06:48 PM, LoadSavedWorlds: STARTING...
+2/13/2015 6:06:49 PM, LoadSavedWorlds: COMPLETED
+2/13/2015 6:06:50 PM, LoadSelectedGroupPrisons: STARTING...
+2/13/2015 6:06:50 PM, LoadSelectedGroupPrisons: COMPLETED
+2/13/2015 6:06:50 PM, LoadSelectedGroupPrisons: STARTING...
+2/13/2015 6:06:50 PM, LoadSelectedGroupPrisons: COMPLETED
+3/5/2015 7:45:34 PM, LoadSavedWorlds: STARTING...
+3/5/2015 7:45:35 PM, LoadSavedWorlds: COMPLETED
+3/5/2015 7:45:51 PM, LoadSavedWorlds: STARTING...
+3/5/2015 7:45:53 PM, LoadSavedWorlds: COMPLETED
+3/5/2015 7:46:00 PM, LoadSavedWorlds: STARTING...
+3/5/2015 7:46:01 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:33:39 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:33:40 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:33:41 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:33:41 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 7:33:42 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 7:33:42 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 7:33:42 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 7:33:42 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 7:33:42 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 7:33:43 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 7:33:43 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 7:33:43 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 7:33:43 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 7:33:43 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 7:33:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 7:33:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 7:33:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 7:33:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 7:33:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 7:33:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 7:33:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 7:33:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 7:33:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 7:33:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 7:33:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 7:33:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 7:33:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 7:33:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 7:33:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 7:33:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 7:33:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 7:33:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 7:33:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 7:33:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 7:33:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 7:33:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 7:33:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 7:33:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 7:33:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 7:33:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 7:33:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 7:33:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 7:33:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen1.39M_03072015182959.png
+3/8/2015 7:33:49 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:33:50 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\6488b6be-b24b-4be6-b34c-2e84d34fd749\autosave.png
+3/8/2015 7:33:52 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\063f8d2c-aedf-463e-9482-ed001d392c51\RebootPen--.png
+3/8/2015 7:33:57 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:33:58 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:34:35 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:34:42 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:34:50 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\87cc3f28-ca28-4d1c-8cac-c2f8d9426557\autosave.png
+3/8/2015 7:34:51 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\eb409829-b66a-4354-8046-3f25a6faedf6\RebootPen--.png
+3/8/2015 7:34:55 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 7:34:56 PM, The process cannot access the file 'NewHollywoodPen1.18M_02062015220146.png' because it is being used by another process.
+3/8/2015 7:35:42 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:35:43 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:35:44 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:35:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 7:35:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 7:35:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 7:35:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 7:35:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 7:35:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 7:35:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 7:35:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 7:35:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 7:35:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 7:35:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 7:35:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 7:35:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 7:35:51 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:36:42 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\73cab90a-f1ee-4f40-97d8-fcde24748535\autosave.png
+3/8/2015 7:37:07 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:37:09 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:37:09 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:37:16 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:38:01 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\f4376342-4068-4eb7-9d66-8d3b4a628098\autosave.png
+3/8/2015 7:38:43 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:38:45 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:38:47 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:38:54 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:41:23 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:41:24 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:41:25 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:41:32 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:41:38 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 7:41:39 PM, The process cannot access the file 'NewHollywoodPen_02062015220137.png' because it is being used by another process.
+3/8/2015 7:44:43 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:44:44 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:44:45 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:44:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 7:44:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 7:44:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 7:44:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 7:44:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 7:44:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 7:44:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 7:44:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 7:44:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 7:44:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 7:44:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 7:44:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 7:44:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 7:44:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 7:44:52 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:46:12 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:46:13 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:46:13 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:46:20 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:47:01 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:47:02 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:47:02 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:47:09 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:47:23 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\4d6b9bf0-aa75-4057-b88f-edc522cc38fb\RebootPen--.png
+3/8/2015 7:48:44 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\d5a8098b-e939-4a0c-a74e-6d0de135ab07\RebootPen--.png
+3/8/2015 7:48:51 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\9f31b410-86f5-434c-a1b7-5a354aa9ed23\RebootPen--.png
+3/8/2015 7:48:52 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\cea11225-a725-4d73-915c-3b906d0f41ad\RebootPen--.png
+3/8/2015 7:49:17 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\74ac1320-8b32-4126-a61e-9561cdf02d8b\RebootPen--.png
+3/8/2015 7:50:45 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:50:47 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:50:50 PM, btnCleanup_Click clicked...
+3/8/2015 7:50:50 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 7:51:00 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:51:02 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:51:02 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:51:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 7:51:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 7:51:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 7:51:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 7:51:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 7:51:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 7:51:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 7:51:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 7:51:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 7:51:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 7:51:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 7:51:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 7:51:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 7:51:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 7:51:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 7:51:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 7:51:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 7:51:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 7:51:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 7:51:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 7:51:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 7:51:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 7:51:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 7:51:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 7:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 7:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 7:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 7:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 7:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 7:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 7:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 7:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 7:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 7:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 7:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 7:51:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 7:51:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 7:51:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 7:51:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 7:51:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen1.39M_03072015182959.png
+3/8/2015 7:51:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen_03072015183003.png
+3/8/2015 7:51:10 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\SmallvillePen_02142015172608.png
+3/8/2015 7:51:10 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:51:41 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\864f1be4-3a99-4086-aa58-2f317793b936\RebootPen--.png
+3/8/2015 7:53:43 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:53:44 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:53:47 PM, btnCleanup_Click clicked...
+3/8/2015 7:53:47 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 7:53:52 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:53:53 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:53:54 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:53:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 7:53:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 7:53:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 7:53:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 7:53:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 7:53:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 7:53:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 7:53:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 7:53:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 7:53:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 7:53:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 7:53:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 7:53:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 7:53:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 7:53:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 7:53:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 7:53:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 7:53:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 7:53:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 7:53:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 7:53:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 7:53:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 7:53:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 7:53:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 7:53:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 7:53:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 7:53:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 7:53:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 7:53:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 7:53:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 7:53:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 7:53:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 7:53:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 7:54:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 7:54:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 7:54:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 7:54:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 7:54:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 7:54:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 7:54:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen1.39M_03072015182959.png
+3/8/2015 7:54:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen_03072015183003.png
+3/8/2015 7:54:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\SmallvillePen_02142015172608.png
+3/8/2015 7:54:01 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:54:06 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\b93c7df3-f6b4-41e5-8184-37dc9abae165\RebootPen--.png
+3/8/2015 7:54:06 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\b93c7df3-f6b4-41e5-8184-37dc9abae165\RebootPen--.prison
+3/8/2015 7:54:17 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\51d4fe5f-e285-4598-bc50-e80538ba614d\RebootPen--.png
+3/8/2015 7:54:17 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\51d4fe5f-e285-4598-bc50-e80538ba614d\RebootPen--.prison
+3/8/2015 7:54:32 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:54:33 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:54:35 PM, btnCleanup_Click clicked...
+3/8/2015 7:54:35 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 7:54:42 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:54:43 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:54:44 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:54:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 7:54:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 7:54:44 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 7:54:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 7:54:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 7:54:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 7:54:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 7:54:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 7:54:45 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 7:54:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 7:54:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 7:54:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 7:54:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 7:54:46 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 7:54:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 7:54:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 7:54:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 7:54:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 7:54:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 7:54:47 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 7:54:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 7:54:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 7:54:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 7:54:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 7:54:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 7:54:48 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 7:54:49 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 7:54:49 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 7:54:49 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 7:54:49 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 7:54:49 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 7:54:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 7:54:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 7:54:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 7:54:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 7:54:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 7:54:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 7:54:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 7:54:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 7:54:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen1.39M_03072015182959.png
+3/8/2015 7:54:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen_03072015183003.png
+3/8/2015 7:54:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\SmallvillePen_02142015172608.png
+3/8/2015 7:54:52 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 7:56:48 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:56:49 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:56:52 PM, btnCleanup_Click clicked...
+3/8/2015 7:56:52 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 7:56:53 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 7:56:53 PM, Access to the path 'C:\Users\Joe\AppData\Local\Temp\papm' is denied.
+3/8/2015 7:56:55 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:56:56 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:56:57 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:56:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 7:57:07 PM, LoadSavedWorlds: STARTING...
+3/8/2015 7:57:08 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 7:57:09 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 7:57:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:01:18 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:01:19 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:01:19 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:01:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:01:46 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:01:48 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:01:48 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:01:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:01:59 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:02:00 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:02:01 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:02:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:02:08 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:02:10 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:02:10 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:02:15 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:02:21 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:02:22 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:02:22 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:02:26 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:02:35 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:02:37 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:02:37 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:03:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:04:31 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:04:32 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:04:32 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:04:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:04:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 8:04:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 8:04:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 8:04:50 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 8:04:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 8:04:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 8:04:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 8:04:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 8:04:51 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 8:04:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 8:04:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 8:04:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 8:04:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 8:04:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 8:04:52 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 8:04:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 8:04:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 8:04:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 8:04:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 8:04:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 8:04:53 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 8:04:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 8:04:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 8:04:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 8:04:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 8:04:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 8:04:54 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 8:04:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 8:04:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 8:04:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 8:04:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 8:04:55 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 8:04:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 8:04:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 8:04:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 8:04:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 8:04:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 8:04:56 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 8:04:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen1.39M_03072015182959.png
+3/8/2015 8:04:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen_03072015183003.png
+3/8/2015 8:04:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\SmallvillePen_02142015172608.png
+3/8/2015 8:04:57 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 8:04:59 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\fdb55c60-db4d-49f1-899a-123824aae290\RebootPen--.png
+3/8/2015 8:04:59 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\fdb55c60-db4d-49f1-899a-123824aae290\RebootPen--.prison
+3/8/2015 8:05:19 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 8:05:20 PM, The process cannot access the file 'RebootPen1.39M_03072015182959.png' because it is being used by another process.
+3/8/2015 8:05:56 PM, LoadSavedWorlds: STARTING...
+3/8/2015 8:05:57 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 8:05:59 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 8:05:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 8:05:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 8:05:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 8:05:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 8:05:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 8:05:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 8:06:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 8:06:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 8:06:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 8:06:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 8:06:00 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 8:06:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 8:06:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 8:06:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 8:06:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 8:06:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 8:06:01 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 8:06:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 8:06:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 8:06:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 8:06:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 8:06:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 8:06:02 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 8:06:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 8:06:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 8:06:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 8:06:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 8:06:03 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 8:06:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 8:06:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 8:06:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 8:06:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 8:06:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 8:06:04 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 8:06:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 8:06:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 8:06:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 8:06:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 8:06:05 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 8:06:06 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 8:06:07 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\433dcc71-882e-4e10-b9e4-9e7d182def53\RebootPen--.png
+3/8/2015 8:06:07 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\433dcc71-882e-4e10-b9e4-9e7d182def53\RebootPen--.prison
+3/8/2015 8:06:13 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 8:06:14 PM, The process cannot access the file 'RebootPen--_03082015075449.png' because it is being used by another process.
+3/8/2015 10:15:16 PM, LoadSavedWorlds: STARTING...
+3/8/2015 10:15:17 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 10:15:18 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 10:15:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 10:15:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 10:15:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 10:15:18 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 10:15:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 10:15:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 10:15:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 10:15:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 10:15:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 10:15:19 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 10:15:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 10:15:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 10:15:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 10:15:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 10:15:20 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 10:15:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 10:15:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 10:15:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 10:15:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 10:15:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 10:15:21 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 10:15:22 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 10:15:22 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 10:15:22 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 10:15:22 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 10:15:22 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 10:15:22 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 10:15:23 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 10:15:23 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 10:15:23 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 10:15:23 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 10:15:23 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 10:15:24 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 10:15:24 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 10:15:24 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 10:15:24 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 10:15:24 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 10:15:24 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 10:15:25 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 10:15:25 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen1.39M_03072015182959.png
+3/8/2015 10:15:25 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen_03072015183003.png
+3/8/2015 10:15:25 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\SmallvillePen_02142015172608.png
+3/8/2015 10:15:25 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 10:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\9579ae9d-4d0b-4462-9355-dc0ae9500f59\RebootPen--.png
+3/8/2015 10:15:34 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\9579ae9d-4d0b-4462-9355-dc0ae9500f59\RebootPen--.prison
+3/8/2015 10:15:56 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/8/2015 10:15:57 PM, The process cannot access the file 'RebootPen1.39M_03072015182959.png' because it is being used by another process.
+3/8/2015 10:16:04 PM, LoadSavedWorlds: STARTING...
+3/8/2015 10:16:06 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 10:16:06 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 10:16:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+3/8/2015 10:16:06 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+3/8/2015 10:16:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+3/8/2015 10:16:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+3/8/2015 10:16:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+3/8/2015 10:16:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+3/8/2015 10:16:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+3/8/2015 10:16:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+3/8/2015 10:16:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+3/8/2015 10:16:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02072015222857.png
+3/8/2015 10:16:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen1.14M_02082015160605.png
+3/8/2015 10:16:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015150026.png
+3/8/2015 10:16:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\MarsPen_02082015160609.png
+3/8/2015 10:16:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+3/8/2015 10:16:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+3/8/2015 10:16:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+3/8/2015 10:16:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015203135.png
+3/8/2015 10:16:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015102209.png
+3/8/2015 10:16:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02212015205109.png
+3/8/2015 10:16:10 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02222015151116.png
+3/8/2015 10:16:10 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02232015231136.png
+3/8/2015 10:16:10 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_02282015181644.png
+3/8/2015 10:16:10 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03012015100221.png
+3/8/2015 10:16:10 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen++_03052015194257.png
+3/8/2015 10:16:10 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.44M_02212015081040.png
+3/8/2015 10:16:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M++_03012015100231.png
+3/8/2015 10:16:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.52M_02212015220333.png
+3/8/2015 10:16:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.54M++_03012015100226.png
+3/8/2015 10:16:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\ParidisePen1.55M_02282015181711.png
+3/8/2015 10:16:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.24M_02132015180020.png
+3/8/2015 10:16:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.33M_02142015172613.png
+3/8/2015 10:16:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.38M_02152015182600.png
+3/8/2015 10:16:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen1.42M_02212015081134.png
+3/8/2015 10:16:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02122015225310.png
+3/8/2015 10:16:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PerfectPen_02152015182554.png
+3/8/2015 10:16:12 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+3/8/2015 10:16:13 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03072015182954.png
+3/8/2015 10:16:13 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015075449.png
+3/8/2015 10:16:13 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\RebootPen--_03082015165710.png
+3/8/2015 10:16:14 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 10:16:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\da1503ba-bf93-4835-b73b-761cb0b5a4f5\RebootPen--.png
+3/8/2015 10:16:49 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\da1503ba-bf93-4835-b73b-761cb0b5a4f5\RebootPen--.prison
+3/8/2015 10:17:44 PM, LoadSavedWorlds: STARTING...
+3/8/2015 10:17:45 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 10:17:46 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 10:17:52 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 10:17:57 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\2adf81d2-d8e5-4a72-ae8c-1dc9d3c0aba7\RebootPen--.png
+3/8/2015 10:17:57 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\2adf81d2-d8e5-4a72-ae8c-1dc9d3c0aba7\RebootPen--.prison
+3/8/2015 10:20:18 PM, LoadSavedWorlds: STARTING...
+3/8/2015 10:20:19 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 10:20:19 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 10:20:26 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 10:23:17 PM, LoadSavedWorlds: STARTING...
+3/8/2015 10:23:18 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 10:23:18 PM, LoadBackedUpPrisons: STARTING...
+3/8/2015 10:23:25 PM, LoadBackedUpPrisons: COMPLETED
+3/8/2015 10:23:38 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\0d6171bb-1715-48ce-a663-2d4ae42134bd\RebootPen--.png
+3/8/2015 10:23:38 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\0d6171bb-1715-48ce-a663-2d4ae42134bd\RebootPen--.prison
+3/8/2015 10:24:17 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\3116840b-7e62-416d-87bf-d571250c6fe6\RebootPen--.png
+3/8/2015 10:24:17 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\3116840b-7e62-416d-87bf-d571250c6fe6\RebootPen--.prison
+3/8/2015 10:24:22 PM, LoadSavedWorlds: STARTING...
+3/8/2015 10:24:24 PM, LoadSavedWorlds: COMPLETED
+3/8/2015 10:24:45 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+3/20/2015 11:58:15 PM, LoadSavedWorlds: STARTING...
+3/20/2015 11:58:16 PM, LoadSavedWorlds: COMPLETED
+3/20/2015 11:59:25 PM, LoadSavedWorlds: STARTING...
+3/20/2015 11:59:26 PM, LoadSavedWorlds: COMPLETED

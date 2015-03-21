@@ -1,0 +1,197 @@
+2/7/2015 1:36:35 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:36:35 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:36:36 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:38:19 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:38:20 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:38:22 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:38:53 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:38:54 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:38:54 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:38:54 PM, ERROR: No Prison Architect saves folder defined.
+2/7/2015 1:38:59 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:39:00 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:39:01 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:39:01 PM, ERROR: No Prison Architect saves folder defined.
+2/7/2015 1:41:16 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:41:17 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:41:18 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:41:18 PM, ERROR: No Prison Architect saves folder defined.
+2/7/2015 1:41:23 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:41:23 PM, ERROR: No Prison Architect saves folder defined.
+2/7/2015 1:41:24 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:41:24 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:42:47 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:42:47 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:42:48 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:42:48 PM, ERROR: No Prison Architect saves folder defined.
+2/7/2015 1:42:57 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:42:57 PM, ERROR: No Prison Architect saves folder defined.
+2/7/2015 1:42:57 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:42:58 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:44:03 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:44:03 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:44:26 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:44:26 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:44:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:44:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:44:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:44:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:44:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:44:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:44:27 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:44:27 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:44:27 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:44:27 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:44:28 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:44:28 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:44:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:44:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:44:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:44:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:44:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:44:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:44:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:44:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:44:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:44:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:44:30 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:44:31 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:45:08 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:45:08 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:45:12 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:45:12 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:45:12 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:45:12 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:45:16 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:45:17 PM, The process cannot access the file 'EdmondsPen.png' because it is being used by another process.
+2/7/2015 1:46:17 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:46:18 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:46:31 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:46:31 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:46:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:46:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:46:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:46:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:46:32 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:46:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:46:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:46:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:46:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:46:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:46:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:46:34 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:46:45 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:46:46 PM, The process cannot access the file 'autosave_01312015102918.png' because it is being used by another process.
+2/7/2015 1:46:51 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:46:51 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:46:55 PM, btnCleanup_Click clicked...
+2/7/2015 1:46:55 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:46:57 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:46:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:46:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:46:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:46:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:46:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:46:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:46:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:46:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:46:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:46:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:46:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:46:59 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:46:59 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:47:02 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:47:03 PM, The process cannot access the file 'HollywoodPen--_02012015075828.png' because it is being used by another process.
+2/7/2015 1:47:06 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:47:07 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:47:10 PM, btnCleanup_Click clicked...
+2/7/2015 1:47:10 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:47:48 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:47:48 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:47:55 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:48:11 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:51:05 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:51:06 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:51:07 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:51:07 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_01312015102909.png
+2/7/2015 1:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015084313.png
+2/7/2015 1:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen_02012015140512.png
+2/7/2015 1:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen1.18M_02062015220146.png
+2/7/2015 1:51:08 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02062015220137.png
+2/7/2015 1:51:09 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\PhillyPenPlan_01312015132029.png
+2/7/2015 1:51:09 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:51:12 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:51:12 PM, The process cannot access the file 'HollywoodPen_01312015102909.png' because it is being used by another process.
+2/7/2015 1:51:28 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:51:28 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:51:29 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:51:29 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\autosave_01312015102918.png
+2/7/2015 1:52:56 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:52:56 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:52:57 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:52:57 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015102744.png
+2/7/2015 1:52:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_01312015104700.png
+2/7/2015 1:52:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015071842.png
+2/7/2015 1:52:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen--_02012015075828.png
+2/7/2015 1:52:58 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\HollywoodPen1.21M_02062015220152.png
+2/7/2015 1:52:59 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:53:46 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen.png
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen790k.png
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen820k.png
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen850k.png
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen870k.png
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen880k.png
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen910k.png
+2/7/2015 1:53:46 PM,      LoadSelectedGroupPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\EdmondsPen-GROUP\EdmondsPen940k.png
+2/7/2015 1:53:46 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:53:46 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:53:46 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:53:51 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:53:52 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:54:05 PM, DoBackup(False): STARTING...
+2/7/2015 1:54:05 PM, DoBackup(): C:\Users\Joe\Dropbox\prisonarchitect\saves\NewHollywoodPen_02072015135405.zip
+2/7/2015 1:54:05 PM,      CreateBackupFile: Added File: C:\Users\Joe\AppData\Local\Introversion\Prison Architect\saves\NewHollywoodPen.png
+2/7/2015 1:54:05 PM,      CreateBackupFile: Added File: C:\Users\Joe\AppData\Local\Introversion\Prison Architect\saves\NewHollywoodPen.prison
+2/7/2015 1:54:06 PM, DoBackup(False): Prison 'NewHollywoodPen 'COMPLETED
+2/7/2015 1:54:19 PM, deleteToolStripMenuItem_Click(): DeleteFile: C:\Users\Joe\AppData\Local\Introversion\Prison Architect\saves\autosave.prison
+2/7/2015 1:54:19 PM, deleteToolStripMenuItem_Click(): DeleteFile: C:\Users\Joe\AppData\Local\Introversion\Prison Architect\saves\autosave.png
+2/7/2015 1:54:21 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:54:21 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:54:31 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:54:33 PM,      LoadBackedUpPrisons: Extracting temp to C:\Users\Joe\AppData\Local\Temp\papm\NewHollywoodPen_02072015135405.png
+2/7/2015 1:54:33 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:54:42 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:54:42 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:54:49 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:54:49 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:54:49 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:54:50 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:54:56 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:54:56 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:54:56 PM, LoadSelectedGroupPrisons: STARTING...
+2/7/2015 1:54:57 PM, LoadSelectedGroupPrisons: COMPLETED
+2/7/2015 1:54:58 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:55:00 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:55:00 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:55:01 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:55:08 PM, LoadBackedUpPrisons: STARTING...
+2/7/2015 1:55:10 PM, LoadBackedUpPrisons: COMPLETED
+2/7/2015 1:55:14 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 1:55:14 PM, The process cannot access the file 'autosave_01312015102918.png' because it is being used by another process.
+2/7/2015 1:55:17 PM, LoadSavedWorlds: STARTING...
+2/7/2015 1:55:18 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 1:55:21 PM, btnCleanup_Click clicked...
+2/7/2015 1:55:21 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 2:26:57 PM, LoadSavedWorlds: STARTING...
+2/7/2015 2:26:58 PM, LoadSavedWorlds: COMPLETED
+2/7/2015 2:27:01 PM, TempCleanUp; Cleaning up..deleting C:\Users\Joe\AppData\Local\Temp\papm
+2/7/2015 2:27:47 PM, LoadSavedWorlds: STARTING...
+2/7/2015 2:27:48 PM, LoadSavedWorlds: COMPLETED
+2/8/2015 7:30:57 PM, LoadSavedWorlds: STARTING...
+2/8/2015 7:30:57 PM, LoadSavedWorlds: COMPLETED
