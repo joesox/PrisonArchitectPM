@@ -12,3 +12,6 @@ C:\Users\Joe\documents\visual studio 2013\Projects\Prison Architect Prison Manag
 C:\Users\Joe\Documents\Visual Studio 2013\Projects\Prison Architect Prison Manager\bin\Debug\Prison Architect Prison Manager.exe.config
 C:\Users\Joe\Documents\Visual Studio 2013\Projects\Prison Architect Prison Manager\obj\Debug\Prison Architect Prison Manager.exe
 C:\Users\Joe\Documents\Visual Studio 2013\Projects\Prison Architect Prison Manager\obj\Debug\Prison Architect Prison Manager.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Prison Architect Prison Manager\PrisonArchitectPM\bin\Debug\Prison Architect Prison Manager.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Prison Architect Prison Manager\PrisonArchitectPM\obj\Debug\Prison Architect Prison Manager.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Prison Architect Prison Manager\PrisonArchitectPM\obj\Debug\Prison Architect Prison Manager.pdb
