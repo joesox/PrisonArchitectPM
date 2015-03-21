@@ -653,10 +653,11 @@ namespace Prison_Architect_Prison_Manager
             this.backupAsGroupABCToolStripMenuItem,
             this.backupAsGroupABCAndRemoveToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(259, 114);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(259, 136);
             // 
             // backupToolStripMenuItem
             // 
+            this.backupToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("backupToolStripMenuItem.Image")));
             this.backupToolStripMenuItem.Name = "backupToolStripMenuItem";
             this.backupToolStripMenuItem.Size = new System.Drawing.Size(258, 22);
             this.backupToolStripMenuItem.Text = "Backup";
@@ -664,6 +665,7 @@ namespace Prison_Architect_Prison_Manager
             // 
             // backupRemoveToolStripMenuItem
             // 
+            this.backupRemoveToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("backupRemoveToolStripMenuItem.Image")));
             this.backupRemoveToolStripMenuItem.Name = "backupRemoveToolStripMenuItem";
             this.backupRemoveToolStripMenuItem.Size = new System.Drawing.Size(258, 22);
             this.backupRemoveToolStripMenuItem.Text = "Backup and Remove";
@@ -671,6 +673,7 @@ namespace Prison_Architect_Prison_Manager
             // 
             // deleteToolStripMenuItem
             // 
+            this.deleteToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("deleteToolStripMenuItem.Image")));
             this.deleteToolStripMenuItem.Name = "deleteToolStripMenuItem";
             this.deleteToolStripMenuItem.Size = new System.Drawing.Size(258, 22);
             this.deleteToolStripMenuItem.Text = "Delete";
@@ -678,6 +681,7 @@ namespace Prison_Architect_Prison_Manager
             // 
             // backupAsGroupABCToolStripMenuItem
             // 
+            this.backupAsGroupABCToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("backupAsGroupABCToolStripMenuItem.Image")));
             this.backupAsGroupABCToolStripMenuItem.Name = "backupAsGroupABCToolStripMenuItem";
             this.backupAsGroupABCToolStripMenuItem.Size = new System.Drawing.Size(258, 22);
             this.backupAsGroupABCToolStripMenuItem.Text = "Backup as Group ABC";
@@ -685,6 +689,7 @@ namespace Prison_Architect_Prison_Manager
             // 
             // backupAsGroupABCAndRemoveToolStripMenuItem
             // 
+            this.backupAsGroupABCAndRemoveToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("backupAsGroupABCAndRemoveToolStripMenuItem.Image")));
             this.backupAsGroupABCAndRemoveToolStripMenuItem.Name = "backupAsGroupABCAndRemoveToolStripMenuItem";
             this.backupAsGroupABCAndRemoveToolStripMenuItem.Size = new System.Drawing.Size(258, 22);
             this.backupAsGroupABCAndRemoveToolStripMenuItem.Text = "Backup as Group ABC and Remove";

@@ -70,10 +70,6 @@ namespace Prison_Architect_Prison_Manager
                 col.DefaultCellStyle.Font = new System.Drawing.Font("Consolas", 12.00F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                 col.DefaultCellStyle.ForeColor = System.Drawing.SystemColors.HotTrack;
             }
-
-            //make sure the top row is selected
-            if (dataGridView1.Rows.Count > 0)
-                dataGridView1.Rows[0].Selected = true;
             this.tabAllSaves.BringToFront();//make sure to bring to front, this also forces the selection above.
             this.tabAllSaves.Focus();
 
@@ -1057,6 +1053,10 @@ namespace Prison_Architect_Prison_Manager
                 //Get the Column settings
                 ReadColumnSettings();
                 // dataGridView1.EndUpdate();
+
+                //make sure the top row is selected
+                if (dataGridView1.Rows.Count > 0)
+                    dataGridView1.Rows[0].Selected = true;
                 dataGridView1.Update();
             }
             else
